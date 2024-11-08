@@ -1,0 +1,3 @@
+export const aesKey = "my-secret";
+export const privateKey = `0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80`;
+export const cachedEncrypted = `0xe49c138cd248e1ad4fe02ed3d9dee32b510201e3e48a953cd6412fe0791457e426fcbfc5d93a02cd459df582dfe09f9e211fd815836379410af46b3f0bb2537c`;
